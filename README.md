@@ -11,4 +11,4 @@ In each subdirectory there will be version directories
 The install file will create symbolic links to the directories where the distribution expects the file to be.
 
 # install_go
-The usage is: ./install_go version
+The usage is: ./install_go.sh *version*. For example: ./install_go.sh 1.15.7
