@@ -25,3 +25,8 @@ install the staticly typed library musl, a version of libc
 
 # cambio 
 converts the endings of text files from windows to linux
+
+# myca
+a bash file to create a local certificate authority, the ca and localhost certificate and key files, and finally an install file
+still need to test the procedure.
+also need to add test programs. testing is each step is super important, since the error messages from openssl are sometimes obtuse. 
